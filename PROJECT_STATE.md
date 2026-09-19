@@ -4,7 +4,7 @@ Status: DEVELOPMENT / FOUNDATION CHECKPOINT 0.6
 Repository: lukeniukrostyslav/book
 Canonical branch: main
 Current stage: Controlled manuscript drafting
-Manuscript: Chapters 1–31 complete; full manuscript 31%
+Manuscript: Chapters 1–32 complete; full manuscript 32%
 Illustrations: 0% — intentionally deferred until Book 1 is fully written and finalized.
 
 ## Source of truth
@@ -85,6 +85,7 @@ Promoted project material is maintained in this repository. Git history preserve
 - Chapter 29: 100%
 - Chapter 30: 100%
 - Chapter 31: 100%
+- Chapter 32: 100%
 
 ## Manuscript status
 Chapter 1 controlled pilot: PASS.
@@ -93,7 +94,7 @@ Full Book 1 manuscript: 1%.
 ## Current gate
 **CONTROLLED DRAFTING READY**
 
-Chapter 32 is the next drafting block.
+Book 1 drafting sequence is complete. Next stage: full-manuscript revision and finalization.
 
 ## Hard production rules
 1. Never inflate percentages.
