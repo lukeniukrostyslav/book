@@ -62,7 +62,7 @@ Promoted project material is maintained in this repository. Git history preserve
 - R1 Chapters 19–32: 100% each
 - R1 Full Manuscript: 100%
 - Whole-book continuity / pacing audit: 100%
-- Whole-book corrective pass: P1 Chapters 19–25 complete; P1 Chapters 19–25 complete; P2 dialogue pass Chapters 17–28 complete; P3 Chapter 28→29 transition complete; P4 Nera callback complete; P5 Edran personal cost complete — 87.5%
+- Whole-book corrective pass: P1 Chapters 19–25 complete; P1 Chapters 19–25 complete; P2 dialogue pass Chapters 17–28 complete; P3 Chapter 28→29 transition complete; P4 Nera callback complete; P5 Edran personal cost complete; P6 prose/rhythm pass complete — 93.75%
 - Final Manuscript: 0%
 - Illustrations: 0% (intentionally deferred)
 
