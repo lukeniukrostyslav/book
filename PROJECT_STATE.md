@@ -1,10 +1,10 @@
 # Fantasy IP — PROJECT STATE
 
-Status: DEVELOPMENT / FOUNDATION CHECKPOINT 0.5
+Status: DEVELOPMENT / FOUNDATION CHECKPOINT 0.6
 Repository: lukeniukrostyslav/book
 Canonical branch: main
-Current stage: Technical draft ready
-Manuscript: 0%
+Current stage: Controlled manuscript drafting
+Manuscript: Chapter 1 pilot complete; full manuscript 1%
 Illustrations: 0% — intentionally deferred until Book 1 is fully written and finalized.
 
 ## Source of truth
@@ -16,6 +16,7 @@ Promoted project material is maintained in this repository. Git history preserve
 - Continuity / recovery foundation 0.3: 100%
 - Technical pre-draft foundation 0.4: 100%
 - Final technical draft gate 0.5: 100%
+- Opening voice / Chapter 1 pilot 0.6: 100%
 
 ## Development blocks
 - Story engine: 99%
@@ -41,7 +42,7 @@ Promoted project material is maintained in this repository. Git history preserve
 - Series arc: 97%
 - Book 1 architecture: 98%
 - Chapter blueprint: 100%
-- Scene blueprint: 97%
+- Scene blueprint: 100%
 - Continuity + clue matrix: 100%
 - Scene knowledge ledger: 100%
 - Chronology: 100%
@@ -51,18 +52,20 @@ Promoted project material is maintained in this repository. Git history preserve
 - Clue fair-play audit: 100%
 - Book 1 structural audit: 97%
 - Absent Event: 98%
-- Drafting specification: 90%
-- Opening voice test: 0% — next block
+- Drafting specification: 95%
+- Opening voice test: 100%
+- Chapter 1 pilot: 100%
+
+## Manuscript status
+Chapter 1 controlled pilot: PASS.
+Full Book 1 manuscript: 1%.
 
 ## Current gate
-**TECHNICAL DRAFT READY: YES**
+**CONTROLLED DRAFTING READY**
 
-Full prose drafting may now begin in a controlled sequence, starting with the opening voice test.
+Chapter 2 is the next drafting block.
 
-## Next block
-FOUNDATION 0.6 — Opening Voice Test + Chapter 1 controlled prose pilot.
-
-## Operating rules
+## Hard production rules
 1. Never inflate percentages.
 2. Preserve established canon unless an explicit decision changes it.
 3. Record important decisions and rejected concepts.
@@ -70,3 +73,4 @@ FOUNDATION 0.6 — Opening Voice Test + Chapter 1 controlled prose pilot.
 5. Separate fact, inference, hypothesis and unknown.
 6. No illustrations before Book 1 is fully written and finalized.
 7. New prose details must pass continuity and originality checks.
+8. Chapter drafts are saved before moving to the next chapter.
