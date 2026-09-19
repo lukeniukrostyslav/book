@@ -3,8 +3,8 @@
 Status: DEVELOPMENT / FOUNDATION CHECKPOINT 0.6
 Repository: lukeniukrostyslav/book
 Canonical branch: main
-Current stage: Controlled manuscript drafting
-Manuscript: Chapters 1–32 complete; full manuscript 32%
+Current stage: Controlled manuscript drafting / Revision R1
+Manuscript: Chapters 1–32 drafted; R1 revisions through Chapter 14 complete (14/32 = 44%)
 Illustrations: 0% — intentionally deferred until Book 1 is fully written and finalized.
 
 ## Source of truth
@@ -54,47 +54,22 @@ Promoted project material is maintained in this repository. Git history preserve
 - Absent Event: 98%
 - Drafting specification: 95%
 - Opening voice test: 100%
-- Chapter 1 pilot: 100%
-- Chapter 2: 100%
-- Chapter 3: 100%
-- Chapter 4: 100%
-- Chapter 5: 100%
-- Chapter 6: 100%
-- Chapter 7: 100%
-- Chapter 8: 100%
-- Chapter 9: 100%
-- Chapter 10: 100%
-- Chapter 11: 100%
-- Chapter 12: 100%
-- Chapter 13: 100%
-- Chapter 14: 100%
-- Chapter 15: 100%
-- Chapter 16: 100%
-- Chapter 17: 100%
-- Chapter 18: 100%
-- Chapter 19: 100%
-- Chapter 20: 100%
-- Chapter 21: 100%
-- Chapter 22: 100%
-- Chapter 23: 100%
-- Chapter 24: 100%
-- Chapter 25: 100%
-- Chapter 26: 100%
-- Chapter 27: 100%
-- Chapter 28: 100%
-- Chapter 29: 100%
-- Chapter 30: 100%
-- Chapter 31: 100%
-- Chapter 32: 100%
+- R1 Chapters 1–13: 100% each
+- R1 Chapter 14: 100%
+- R1 Chapters 15–32: 0%
+- R1 Full Manuscript: 44%
+- Final Manuscript: 0%
+- Illustrations: 0% (intentionally deferred)
 
 ## Manuscript status
-Chapter 1 controlled pilot: PASS.
-Full Book 1 manuscript: 1%.
+Controlled drafts: Chapters 1–32.
+R1 revised: Chapters 1–14.
+R1 remaining: Chapters 15–32.
 
 ## Current gate
-**CONTROLLED DRAFTING READY**
+**R1 REVISION IN PROGRESS**
 
-Book 1 drafting sequence is complete. Next stage: full-manuscript revision and finalization.
+Next sequence: Chapter 15 R1 → Chapter 16 R1 → continue sequentially through Chapter 32, then whole-book continuity/pacing pass and final prose/originality/fair-play gate.
 
 ## Hard production rules
 1. Never inflate percentages.
@@ -104,4 +79,4 @@ Book 1 drafting sequence is complete. Next stage: full-manuscript revision and f
 5. Separate fact, inference, hypothesis and unknown.
 6. No illustrations before Book 1 is fully written and finalized.
 7. New prose details must pass continuity and originality checks.
-8. Chapter drafts are saved before moving to the next chapter.
+8. Chapter revisions are saved before moving to the next chapter.
