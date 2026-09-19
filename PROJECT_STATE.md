@@ -62,7 +62,7 @@ Promoted project material is maintained in this repository. Git history preserve
 - R1 Chapters 19–32: 100% each
 - R1 Full Manuscript: 100%
 - Whole-book continuity / pacing audit: 100%
-- Whole-book corrective pass: P1 Chapters 19–25 complete; P2 dialogue pass Batch 1 active — 25%
+- Whole-book corrective pass: P1 Chapters 19–25 complete; P1 Chapters 19–25 complete; P2 dialogue pass Batch 1 Chapters 17–22 complete — 30%
 - Final Manuscript: 0%
 - Illustrations: 0% (intentionally deferred)
 
