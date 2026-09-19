@@ -1,27 +1,37 @@
 # BOOK 1 — FINAL TRACE LOGIC
 
-Status: CANON CANDIDATE / FINAL GATE PENDING
+Status: LOCKED FOR PRE-DRAFT — FOUNDATION 0.5
 
-## What the reader can prove
-1. A real Trace exists between A and B.
-2. A and B had no documented physical interaction capable of producing a known relation.
-3. Independent methods reproduce the anomaly.
-4. Historical precedent exists.
-5. Known relation classes fail to classify the case completely.
-6. The anomaly persists through local explanations being removed.
+## Final evidence chain
+Before Chapter 32 the reader has already seen:
+1. original anomalous Trace;
+2. persistence after cleaning;
+3. independent reproduction;
+4. archive contradiction;
+5. historical precedent;
+6. second impossible relation;
+7. old research record;
+8. failure of the density explanation.
 
-## What the reader cannot yet prove
-- what Level III Structure is;
-- whether Structural Transition is the only explanation;
-- whether a conscious intelligence exists behind the phenomenon;
-- whether deeper manipulation is possible;
-- whether all such anomalies share one mechanism.
+Chapter 32 adds only the final observation, not a new rule.
 
-## Ending logic
-The final evidence should not reveal a hidden object/person.
-Instead, the evidence changes the question from:
-"What happened between A and B?"
-to:
-"What if no ordinary event happened between A and B?"
+## Final observation
+After the physical crisis, a final controlled comparison is made between two endpoints whose known interaction history is empty. The relation is nevertheless present and matches the same anomalous signature.
 
-The final scene therefore expands the ontology of the mystery without solving the series mystery.
+The evidence establishes:
+- a relation exists;
+- no ordinary event capable of producing the known relation is documented;
+- no hidden person or object is introduced to explain it.
+
+## Reader conclusion
+The strongest Book 1 conclusion is not: "There was a secret event."
+
+It is: "We have evidence that the relation can exist without the kind of event our current model requires."
+
+This changes the ontology of the mystery without solving its mechanism.
+
+## Final boundary
+Book 1 does not prove Level III Structure, a conscious Deep Structure, one universal mechanism, or Structural Transition as established fact. Structural Transition remains the strongest working hypothesis entering Book 2.
+
+## Fair-play condition
+Every premise required for this conclusion appeared before Chapter 32. Chapter 32 supplies the final arrangement of evidence, not a surprise fact.
