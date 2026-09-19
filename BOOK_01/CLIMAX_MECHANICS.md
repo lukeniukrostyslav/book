@@ -1,36 +1,59 @@
 # BOOK 1 — CH29–31 CLIMAX MECHANICS
 
-Status: WORKING / PRE-LOCK
+Status: LOCKED FOR PRE-DRAFT — FOUNDATION 0.5
 
 ## Physical setup
-A structure in the Territory of Layers contains old layered infrastructure and an active transport route. A local failure threatens people because a load-bearing connection and a route-dependent system are no longer behaving according to their documented history.
+The Territory of Layers contains an old river-side transfer structure: successive repairs have been built around an older load-bearing frame. A current transport route still crosses the structure. The failure is physical and local.
 
-## Ch29 — Immediate danger
-A structural failure begins. The characters have limited time.
-Nera identifies the safest evacuation/route response.
-Taren identifies that the visible failure does not match the established Trace history.
-Edran restricts access to a dangerous area and prevents unauthorized Trace inspection.
+The critical system has three ordinary components:
+1. load-bearing stone frame;
+2. timber/metal reinforcement added later;
+3. active route load crossing the repaired section.
 
-## Ch30 — Decision under uncertainty
-The team separates:
-- KNOWN: what the tests directly establish;
-- PROBABLE: best-supported interpretation;
-- UNKNOWN: unresolved relation;
-- RISK: consequences if the interpretation is wrong.
+The anomalous Trace is evidence about the relation history of the structure; it is not itself the source of force.
 
-They choose an intervention that does not require knowing the complete mechanism.
+## Ch29 — Failure
+A route load enters the repaired section. A later reinforcement shifts under stress. A load-bearing connection begins to fail.
+
+Nera identifies the safest evacuation direction, stops new loads entering the structure, and prioritizes people over cargo.
+
+Taren recognizes that the visible failure does not match the documented repair/Trace history. He cannot explain the anomaly, but identifies intervention points that should not be disturbed until the structure is stabilized.
+
+Edran closes the unsafe zone, prevents unauthorized Trace inspection during the active failure, and shares the historical safety information necessary for action.
+
+## Ch30 — Decision
+KNOWN:
+- active load is the immediate physical stressor;
+- one reinforcement is failing;
+- the evacuation route can be changed;
+- the anomalous Trace is reproducible.
+
+PROBABLE:
+- removing the failing reinforcement immediately could transfer load to the weaker old frame.
+
+UNKNOWN:
+- why the anomalous relation exists;
+- whether it represents a structural transition.
+
+RISK:
+- wrong intervention could cause partial collapse.
+
+Decision:
+1. stop incoming loads;
+2. evacuate;
+3. redistribute remaining load;
+4. brace the known weak point;
+5. remove the compromised reinforcement only after stabilization.
+
+No supernatural control is used.
 
 ## Ch31 — Resolution
-The intervention stabilizes the immediate situation without rewriting history or invoking unexplained powers.
-The anomaly remains.
-Taren succeeds by accepting responsible uncertainty rather than obtaining perfect knowledge.
-Nera succeeds by acting without confusing urgency with certainty.
-Edran succeeds when he shares restricted information necessary to prevent harm rather than controlling the entire narrative.
+The structure stabilizes because the physical load path is corrected. The anomalous Trace remains.
 
-## Hard constraints
-No resurrection.
-No time reversal.
-No omniscience.
-No magical city-wide control.
-No chosen-one activation.
-No deus ex machina.
+Character resolution:
+- Taren acts without perfect understanding.
+- Nera acts decisively but follows a risk model rather than impulse.
+- Edran shares restricted information rather than monopolizing it.
+
+## Causality guarantee
+Nothing in Ch29–31 requires time reversal, resurrection, prophecy, chosen-one power, omniscience, Deep Structure control, matter creation, or history rewriting.
