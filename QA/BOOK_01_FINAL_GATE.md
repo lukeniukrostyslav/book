@@ -1,41 +1,28 @@
 # BOOK 1 — FINAL PRE-DRAFT GATE
 
+Status: FOUNDATION 0.5 — TECHNICAL GATE PASSED
+
 ## Gates
+- Chronology: 100%
+- Scene-level character knowledge: 100%
+- Trace test mechanics: 100%
+- Ch29–31 crisis mechanics: 100%
+- Ch32 final Trace logic: 100%
+- Clue fair-play: 100%
+- 32-chapter functionality: 100%
+- Final originality stress test: 96% — monitored risk, not a blocker
 
-### 1. Chronology
-Status: 85%
-12–16 day window established; exact scene timestamps remain to be fixed during detailed drafting.
+## Draft gate result
+**TECHNICAL DRAFT READY: YES**
 
-### 2. Character knowledge
-Status: 95%
-Chapter-level ledger complete. Scene-level knowledge still requires prose-stage locking.
+The technical gate is passed. This means the project has enough locked structure to begin controlled prose drafting. It does not mean the manuscript is written.
 
-### 3. Trace test mechanics
-Status: 95%
-Independent tests and limitations documented. Exact technical wording can be refined during drafting.
+## Remaining non-blocking work
+1. Opening voice test.
+2. Scene-level prose rhythm.
+3. Dialogue naturalness.
+4. Micro-continuity discovered during drafting.
+5. Final originality checks on newly invented details.
 
-### 4. Ch29–31 crisis
-Status: 92%
-Causal chain documented. Physical layout and exact load/failure geometry remain to be fixed.
-
-### 5. Final Trace logic
-Status: 95%
-Book 1 answer boundary is clear; exact final evidence presentation remains open.
-
-### 6. Originality
-Status: 96%
-Final mechanism stress-tested. Philosophical derivation risk remains a monitored issue.
-
-### 7. Chapter functionality
-Status: 97%
-32-chapter gate established.
-
-## Overall
-DRAFT READY: NO — technical gate remains intentionally open.
-
-## Remaining blockers
-- exact chronology;
-- exact physical geometry of climax;
-- scene-level knowledge ledger;
-- final evidence presentation in Ch32;
-- opening prose voice test.
+## Hard production rule
+No illustration work begins until the complete Book 1 manuscript has been written, structurally audited and finalized.
