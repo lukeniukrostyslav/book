@@ -57,8 +57,9 @@ Promoted project material is maintained in this repository. Git history preserve
 - R1 Chapters 1–13: 100% each
 - R1 Chapter 14: 100%
 - R1 Chapter 15: 100%
-- R1 Chapters 16–32: 0%
-- R1 Full Manuscript: 47%
+- R1 Chapter 16: 100%
+- R1 Chapters 17–32: 0%
+- R1 Full Manuscript: 50%
 - Final Manuscript: 0%
 - Illustrations: 0% (intentionally deferred)
 
