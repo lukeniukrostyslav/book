@@ -59,20 +59,21 @@ Promoted project material is maintained in this repository. Git history preserve
 - R1 Chapter 15: 100%
 - R1 Chapter 16: 100%
 - R1 Chapter 18: 100%
-- R1 Chapters 19–32: 0%
+- R1 Chapters 19–32: 100% each
 - R1 Full Manuscript: 100%
+- Whole-book continuity / pacing audit: 100%
+- Whole-book corrective pass: 0%
 - Final Manuscript: 0%
 - Illustrations: 0% (intentionally deferred)
 
 ## Manuscript status
 Controlled drafts: Chapters 1–32.
-R1 revised: Chapters 1–14.
-R1 remaining: Chapters 15–32.
+R1 revised: Chapters 1–32.
 
 ## Current gate
-**R1 REVISION IN PROGRESS**
+**WHOLE-BOOK CORRECTIVE PASS**
 
-Next sequence: Chapter 15 R1 → Chapter 16 R1 → continue sequentially through Chapter 32, then whole-book continuity/pacing pass and final prose/originality/fair-play gate.
+Next sequence: execute P1–P8 corrective pass from WHOLE_BOOK_R1_AUDIT.md, then final prose/originality/fair-play gate.
 
 ## Hard production rules
 1. Never inflate percentages.
